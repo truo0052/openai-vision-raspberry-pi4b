@@ -12,3 +12,18 @@ A portable AI-powered vision assistant built with Raspberry Pi 4B that captures 
 - **Security**: Python-dotenv for API key management
 - **API Integration**: OpenAI API with error handling
 - **Logging**: Structured logging for debugging and monitoring
+
+## Software Requirnment
+
+
+## **Documentation Links:**
+- [Python Dotenv Library](https://pypi.org/project/python-dotenv/)
+- [Waveshare 1.5inch LCD Installation](https://www.waveshare.com/wiki/1.5inch_LCD_Module)
+- [Raspberry Pi Pinout](https://pinout.xyz/)
+- [Raspberry Pi Camera Software](https://www.raspberrypi.com/documentation/computers/camera_software.html#rpicam-apps)
+- [Open-AI Python Github](https://github.com/openai/openai-python)
+- [Raspberry Pi 4B - DataSheet](https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf)
+- [RPi.GPIO-PyPI](https://pypi.org/project/RPi.GPIO/)
+
+
+
