@@ -7,6 +7,7 @@ A portable AI-powered vision assistant built with Raspberry Pi 4B that captures 
 - Waveshare 1.5" LCD Display
 - 3 GPIO Button - Capture, Scroll_Up, Scroll_Down
 - A Bunch Of Jumper Cables
+- Lexar High-Performance 633x microSD 
 
 ## Technical Implemetation
 - **Security**: Python-dotenv for API key management
