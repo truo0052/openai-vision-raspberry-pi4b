@@ -13,8 +13,6 @@ A portable AI-powered vision assistant built with Raspberry Pi 4B that captures 
 - **API Integration**: OpenAI API with error handling
 - **Logging**: Structured logging for debugging and monitoring
 
-## Software Requirnment
-
 
 ## **Documentation Links:**
 - [Python Dotenv Library](https://pypi.org/project/python-dotenv/)
