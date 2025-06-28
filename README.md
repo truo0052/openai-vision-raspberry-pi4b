@@ -13,6 +13,10 @@ A portable AI-powered vision assistant built with Raspberry Pi 4B that captures 
 - **API Integration**: OpenAI API with error handling
 - **Logging**: Structured logging for debugging and monitoring
 
+## Compact Enclosure Project
+<img src="https://github.com/user-attachments/assets/5f147eca-234a-45ce-8ad2-b3aed0da507d" width="500" alt="Image">
+<img src="https://github.com/user-attachments/assets/f61adb9a-c628-4600-b2ef-21184f47dc2e" height="295" width="500" alt="Image1">
+
 
 ## **Documentation Links:**
 - [Python Dotenv Library](https://pypi.org/project/python-dotenv/)
